@@ -1,0 +1,7 @@
+protogen GCToLS.proto --csharp_out="../ClientProtobuf"
+protogen GCToSS.proto --csharp_out="../ClientProtobuf"
+protogen GCToCS.proto --csharp_out="../ClientProtobuf"
+protogen GCToBS.proto --csharp_out="../ClientProtobuf"
+protogen GSToGC.proto --csharp_out="../ClientProtobuf"
+protogen BSToGC.proto --csharp_out="../ClientProtobuf"
+protogen LSToGC.proto --csharp_out="../ClientProtobuf"
